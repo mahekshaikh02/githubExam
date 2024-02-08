@@ -14,4 +14,9 @@ public class Caterpillar_239 {
 		return moves;
 	}
 	
+	int get_cabbages()
+	{
+		return cabbages;
+	}
+	
 }
